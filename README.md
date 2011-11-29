@@ -4,8 +4,9 @@ Alex Whittemore's Eagle Library
 There are plenty of footprints and devices that I've needed to use in Eagle and couldn't easily find online. Here they are!
 
 Current devices of interest:
-* `AD7685`
-* ADC121C021
+----------------------------
+`AD7685
+ADC121C021`
 * INA125 (this already exists in the default libs, but I took offense to certain parts or something)
 * LTC1063
 * MAX7414
@@ -20,6 +21,7 @@ Current devices of interest:
 * Amphenol USB3.0 B Receptacle
 
 There are also a few packages I've added that I couldn't seem to find anywhere else.
+------------------------------------------------------------------------------------
 * SOT223-5
 
 Markups
